@@ -1,5 +1,5 @@
-MicroGP v4
-==========
+HAIT
+====
 
 ![License: GPL](https://img.shields.io/badge/license-gpl--3.0-green.svg)
 ![language: Python](https://img.shields.io/badge/language-python-blue.svg)
